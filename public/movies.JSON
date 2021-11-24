@@ -1,0 +1,134 @@
+[
+  {
+    "key": "movie1",
+    "name": "The Shawshank Redemption",
+    "director": "Frank Darabont",
+    "category": "Drama",
+    "runtime": "2h 22m",
+    "rating": "9.3",
+    "img": "https://upload.wikimedia.org/wikipedia/en/8/81/ShawshankRedemptionMoviePoster.jpg",
+    "budget": 25000000,
+    "earning": 28817291
+  },
+  {
+    "key": "movie2",
+    "name": "The Godfather",
+    "director": "Francis Ford Coppola",
+    "category": "Crime,Drama",
+    "runtime": "2h 55m",
+    "rating": "9.2",
+    "img": "https://upload.wikimedia.org/wikipedia/en/1/1c/Godfather_ver1.jpg",
+    "budget": 6000000,
+    "earning": 246120986
+  },
+  {
+    "key": "movie3",
+    "name": "The Godfather: Part II",
+    "director": "Francis Ford Coppola",
+    "category": "Crime,Drama",
+    "runtime": "3h 22m",
+    "rating": "9.0",
+    "img": "https://upload.wikimedia.org/wikipedia/en/0/03/Godfather_part_ii.jpg",
+    "budget": 13000000,
+    "earning": 48035783
+  },
+  {
+    "key": "movie4",
+    "name": "The Dark Knight",
+    "director": "Christopher Nolan",
+    "category": "Action,Crime,Drama",
+    "runtime": "2h 32m",
+    "rating": "9.0",
+    "img": "https://upload.wikimedia.org/wikipedia/en/1/1c/The_Dark_Knight_%282008_film%29.jpg",
+    "budget": 185000000,
+    "earning": 1005973645
+  },
+  {
+    "key": "movie5",
+    "name": "12 Angry Men",
+    "director": "Sidney Lumet",
+    "category": "Crime,Drama",
+    "runtime": "1h 36m",
+    "rating": "9.0",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/12_Angry_Men_%281957_film_poster%29.jpg/220px-12_Angry_Men_%281957_film_poster%29.jpg",
+    "budget": 350000,
+    "earning": 955
+  },
+  {
+    "key": "movie6",
+    "name": "Schindler's List",
+    "director": "Steven Spielberg",
+    "category": "Biography,Drama,History",
+    "runtime": "3h 15m",
+    "rating": "8.9",
+    "img": "https://upload.wikimedia.org/wikipedia/bn/2/28/%E0%A6%B6%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%B2%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8_%E0%A6%B2%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%9F.jpg",
+    "budget": 22000000,
+    "earning": 322161245
+  },
+  {
+    "key": "movie7",
+    "name": "The Lord of the Rings: The Return of the King",
+    "director": "Peter Jackson",
+    "category": "Action,Advanture,Drama",
+    "runtime": "3h 21m",
+    "rating": "8.9",
+    "img": "https://upload.wikimedia.org/wikipedia/en/b/be/The_Lord_of_the_Rings_-_The_Return_of_the_King_%282003%29.jpg",
+    "budget": 94000000,
+    "earning": 1146030912
+  },
+  {
+    "key": "movie8",
+    "name": "Pulp Fiction",
+    "director": "Quentin Tarantino",
+    "category": "Crime,Drama",
+    "runtime": "2h 34m",
+    "rating": "8.9",
+    "img": "https://upload.wikimedia.org/wikipedia/en/3/3b/Pulp_Fiction_%281994%29_poster.jpg",
+    "budget": 8000000,
+    "earning": 213928762
+  },
+  {
+    "key": "movie9",
+    "name": "The Good, the Bad and the Ugly",
+    "director": "Sergio Leone",
+    "category": "Advanture,Western",
+    "runtime": "2h 58m",
+    "rating": "8.8",
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Good_the_bad_and_the_ugly_poster.jpg/220px-Good_the_bad_and_the_ugly_poster.jpg",
+    "budget": 12000000,
+    "earning": 25253751
+  },
+  {
+    "key": "movie10",
+    "name": "The Lord of the Rings: The Fellowship of the Ring",
+    "director": "Peter Jackson",
+    "category": "Action,Advanture,Drama",
+    "runtime": "2h 58m",
+    "rating": "8.8",
+    "img": "https://upload.wikimedia.org/wikipedia/en/8/8a/The_Lord_of_the_Rings_The_Fellowship_of_the_Ring_%282001%29.jpg",
+    "budget": 93000000,
+    "earning": 897690072
+  },
+  {
+    "key": "movie11",
+    "name": "Fight Club",
+    "director": "Fight Club",
+    "category": "Drama",
+    "runtime": "2h 19m",
+    "rating": "8.8",
+    "img": "https://upload.wikimedia.org/wikipedia/en/f/fc/Fight_Club_poster.jpg",
+    "budget": 63000000,
+    "earning": 101209702
+  },
+  {
+    "key": "movie12",
+    "name": "Forrest Gump",
+    "director": "Forrest Gump",
+    "category": "Drama,Romance",
+    "runtime": "2h 22m",
+    "rating": "8.8",
+    "img": "https://upload.wikimedia.org/wikipedia/en/6/67/Forrest_Gump_poster.jpg",
+    "budget": 55000000,
+    "earning": 678226133
+  }
+]

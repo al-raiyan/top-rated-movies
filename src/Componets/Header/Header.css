@@ -1,5 +1,7 @@
 .header {
-  margin-bottom: 10px;
+  background-color: rgb(235, 99, 49);
+  margin: 10px;
+  border-radius: 5px;
   padding: 10px;
 }
 .header h1 {

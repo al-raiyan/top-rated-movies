@@ -3,7 +3,7 @@ import "./Header.css";
 
 const Header = () => {
   return (
-    <div className="header bg-warning">
+    <div className="header">
       <h1>Top Rated Movies Of All Time</h1>
       <p>
         Here you can see the top rated movies of all time.List by the rating of
