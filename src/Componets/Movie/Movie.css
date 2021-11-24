@@ -1,8 +1,16 @@
 img {
   width: 50%;
   height: 30%;
+  margin: 5px;
 }
 .card {
+  color: white;
+  background-color: rgba(0, 0, 0, 0.74);
   width: 18rem;
   padding: 7px;
+  border-radius: 10px;
+}
+.fields {
+  color: rgb(235, 99, 49);
+  font-weight: 600;
 }

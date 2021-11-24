@@ -1,5 +1,5 @@
 .header {
-  background-color: rgb(235, 99, 49);
+  background-color: rgba(218, 165, 32, 0.568);
   margin: 10px;
   border-radius: 5px;
   padding: 10px;
@@ -10,4 +10,7 @@
 }
 .header h5 {
   font-size: 30px;
+}
+.orange {
+  color: rgb(235, 99, 49);
 }

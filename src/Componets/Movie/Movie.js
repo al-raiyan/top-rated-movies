@@ -11,14 +11,27 @@ const Movie = (props) => {
           <img src={img} alt="" />
         </div>
         <div>
-          <h5>Name: {name}</h5>
+          <h5>
+            <span className="fields">Name: </span> {name}
+          </h5>
           <p>
-            Some quick example text to build on the card title and make up the
-            bulk of the card's content.
+            <span className="fields">Director: </span>
+            {director}
+            <br />
+            <span className="fields">Category: </span>
+            {category}
+            <br />
+            <span className="fields">Runtime: </span>
+            {runtime}
+            <br />
+            <span className="fields">Rating: </span>
+            {rating}
+            <br />
+            <span className="fields">Movie Budget: </span>${budget}
+            <br />
+            <span className="fields">Movie Earning: </span>${earning}
           </p>
-          <a href="#" class="btn btn-primary">
-            Go somewhere
-          </a>
+          <button>Add To Cart</button>
         </div>
       </div>
     </div>
