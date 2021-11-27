@@ -1,4 +1,7 @@
 import React from "react";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faShoppingCart } from "@fortawesome/free-solid-svg-icons";
+
 import "./Movie.css";
 
 const Movie = (props) => {
@@ -27,11 +30,18 @@ const Movie = (props) => {
             <span className="fields">Rating: </span>
             {rating}
             <br />
-            <span className="fields">Movie Budget: </span>${budget}
+            <span className="fields">Budget: </span>${budget}
             <br />
-            <span className="fields">Movie Earning: </span>${earning}
+            <p className="fs-2">
+              <span className="fields">Earning: </span>${earning}
+            </p>
           </p>
-          <button>Add To Cart</button>
+          <button
+            onClick={() => props.handelAddToCart(props.movie)}
+            className="regular-btn"
+          >
+            <FontAwesomeIcon icon={faShoppingCart} /> Add To Cart
+          </button>
         </div>
       </div>
     </div>
