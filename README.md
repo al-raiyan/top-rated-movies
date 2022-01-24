@@ -1,6 +1,6 @@
 #Website
 
-Top Rated Movies Of All Time
+Top Rated Movies Of All Time.
 Website Link: https://wonderful-hermann-a91bcf.netlify.app/
 
 #Content Of the Website
